@@ -549,7 +549,8 @@
       "notebookRunAll": "运行所有单元格",
       "categories_notebook": "笔记本",
       "quickNavigator": "快速导航",
-      "triggerSuggestions": "触发建议"
+      "triggerSuggestions": "触发建议",
+      "refreshTable": "刷新表格"
     },
     "aiActivity": "AI 活动"
   },

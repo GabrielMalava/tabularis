@@ -576,7 +576,8 @@
       "categories_notebook": "Ноутбук",
       "pasteImportClipboard": "Импортировать из буфера обмена",
       "quickNavigator": "Быстрый навигатор",
-      "triggerSuggestions": "Показать подсказки"
+      "triggerSuggestions": "Показать подсказки",
+      "refreshTable": "Обновить таблицу"
     },
     "aiActivity": "Активность AI"
   },

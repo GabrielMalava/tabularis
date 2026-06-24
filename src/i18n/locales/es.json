@@ -586,7 +586,8 @@
       "categories_notebook": "Notebook",
       "pasteImportClipboard": "Importar desde Portapapeles",
       "quickNavigator": "Navegador rápido",
-      "triggerSuggestions": "Mostrar sugerencias"
+      "triggerSuggestions": "Mostrar sugerencias",
+      "refreshTable": "Actualizar tabla"
     },
     "aiActivity": "Actividad IA"
   },

@@ -1259,6 +1259,17 @@ export const Editor = () => {
         }
         return;
       }
+
+      if (matchesShortcut(e, "refresh_table")) {
+        const tab = tabsRef.current.find(
+          (t) => t.id === activeTabIdRef.current,
+        );
+        if (tab?.activeTable) {
+          e.preventDefault();
+          runQuery(tab.query, tab.page);
+        }
+        return;
+      }
     };
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);

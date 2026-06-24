@@ -70,6 +70,16 @@
     "overridable": true
   },
   {
+    "id": "refresh_table",
+    "category": "data_grid",
+    "defaultMac": "⌘+R",
+    "defaultWin": "Ctrl+R",
+    "macMatch": { "metaKey": true, "key": "r" },
+    "winMatch": { "ctrlKey": true, "key": "r" },
+    "i18nKey": "settings.shortcuts.refreshTable",
+    "overridable": true
+  },
+  {
     "id": "tab_switcher",
     "category": "editor",
     "defaultMac": "Ctrl+Tab",
